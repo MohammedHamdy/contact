@@ -1,0 +1,13 @@
+{
+    "name": "mido/mypackage",
+    "description": "test package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mide\\mypackage\\": "src/"
+        }
+    }
+}

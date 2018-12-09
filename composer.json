@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "mide\\mypackage\\": "src/"
+            "mido\\mypackage\\": "src/"
         }
     }
 }
